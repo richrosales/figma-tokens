@@ -10,7 +10,7 @@
         "type": "color"
       },
       "footer": {
-        "value": "#000000",
+        "value": "#000",
         "type": "color"
       },
       "surface": {
@@ -40,7 +40,7 @@
     },
     "fg": {
       "default": {
-        "value": "#000000",
+        "value": "#000",
         "type": "color"
       },
       "onAccent": {
