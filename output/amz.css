@@ -1,6 +1,6 @@
-.light-theme {
-  --theme-bg-default: #ffffff;
-  --theme-bg-header: #171717;
+.amz-theme {
+  --theme-bg-default: #ffcc00;
+  --theme-bg-header: #00ffcc;
   --theme-bg-footer: #000;
   --theme-bg-surface: #ffffff;
   --theme-bg-surface-alt: #eeeeee;

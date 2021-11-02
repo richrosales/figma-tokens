@@ -14,7 +14,7 @@ StyleDictionaryPackage.registerTransform({
     name: 'sizes/px',
     type: 'value',
     matcher: function(prop) {
-        // You can be more specific here if you only want 'em' units for font sizes    
+        // You can be more specific here if you only want 'em' units for font sizes
         return ["fontSizes", "spacing", "borderRadius", "borderWidth", "sizing"].includes(prop.attributes.category);
     },
     transformer: function(prop) {
@@ -52,7 +52,7 @@ console.log('Build started...');
 
 // PROCESS THE DESIGN TOKENS FOR THE DIFFEREN BRANDS AND PLATFORMS
 
-['global', 'dark', 'light'].map(function (theme) {
+['global', 'sds', 'amz'].map(function (theme) {
 
     console.log('\n==============================================');
     console.log(`\nProcessing: [${theme}]`);

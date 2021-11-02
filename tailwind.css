@@ -643,7 +643,7 @@ html, body {
   display: flex;
   height: 100%;
   width: 100%;
-  background-color: var(--theme-bg-default, #ffffff);
+  background-color: var(--theme-bg-default, #fcfcfc);
   color: var(--theme-fg-default, #000);
 }
 
@@ -11832,7 +11832,7 @@ html, body {
 }
 
 .divide-theme-bg-default > :not([hidden]) ~ :not([hidden]) {
-  border-color: var(--theme-bg-default, #ffffff);
+  border-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .divide-theme-bg-header > :not([hidden]) ~ :not([hidden]) {
@@ -12634,7 +12634,7 @@ html, body {
 }
 
 .border-theme-bg-default {
-  border-color: var(--theme-bg-default, #ffffff);
+  border-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .border-theme-bg-header {
@@ -12698,7 +12698,7 @@ html, body {
 }
 
 .group:hover .group-hover\:border-theme-bg-default {
-  border-color: var(--theme-bg-default, #ffffff);
+  border-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .group:hover .group-hover\:border-theme-bg-header {
@@ -12762,7 +12762,7 @@ html, body {
 }
 
 .focus-within\:border-theme-bg-default:focus-within {
-  border-color: var(--theme-bg-default, #ffffff);
+  border-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .focus-within\:border-theme-bg-header:focus-within {
@@ -12826,7 +12826,7 @@ html, body {
 }
 
 .hover\:border-theme-bg-default:hover {
-  border-color: var(--theme-bg-default, #ffffff);
+  border-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .hover\:border-theme-bg-header:hover {
@@ -12890,7 +12890,7 @@ html, body {
 }
 
 .focus\:border-theme-bg-default:focus {
-  border-color: var(--theme-bg-default, #ffffff);
+  border-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .focus\:border-theme-bg-header:focus {
@@ -13254,7 +13254,7 @@ html, body {
 }
 
 .bg-theme-bg-default {
-  background-color: var(--theme-bg-default, #ffffff);
+  background-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .bg-theme-bg-header {
@@ -13318,7 +13318,7 @@ html, body {
 }
 
 .group:hover .group-hover\:bg-theme-bg-default {
-  background-color: var(--theme-bg-default, #ffffff);
+  background-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .group:hover .group-hover\:bg-theme-bg-header {
@@ -13382,7 +13382,7 @@ html, body {
 }
 
 .focus-within\:bg-theme-bg-default:focus-within {
-  background-color: var(--theme-bg-default, #ffffff);
+  background-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .focus-within\:bg-theme-bg-header:focus-within {
@@ -13446,7 +13446,7 @@ html, body {
 }
 
 .hover\:bg-theme-bg-default:hover {
-  background-color: var(--theme-bg-default, #ffffff);
+  background-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .hover\:bg-theme-bg-header:hover {
@@ -13510,7 +13510,7 @@ html, body {
 }
 
 .focus\:bg-theme-bg-default:focus {
-  background-color: var(--theme-bg-default, #ffffff);
+  background-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .focus\:bg-theme-bg-header:focus {
@@ -13910,7 +13910,7 @@ html, body {
 }
 
 .from-theme-bg-default {
-  --tw-gradient-from: var(--theme-bg-default, #ffffff);
+  --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
@@ -13990,7 +13990,7 @@ html, body {
 }
 
 .hover\:from-theme-bg-default:hover {
-  --tw-gradient-from: var(--theme-bg-default, #ffffff);
+  --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
@@ -14070,7 +14070,7 @@ html, body {
 }
 
 .focus\:from-theme-bg-default:focus {
-  --tw-gradient-from: var(--theme-bg-default, #ffffff);
+  --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
@@ -14150,7 +14150,7 @@ html, body {
 }
 
 .via-theme-bg-default {
-  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
 .via-theme-bg-header {
@@ -14214,7 +14214,7 @@ html, body {
 }
 
 .hover\:via-theme-bg-default:hover {
-  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
 .hover\:via-theme-bg-header:hover {
@@ -14278,7 +14278,7 @@ html, body {
 }
 
 .focus\:via-theme-bg-default:focus {
-  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+  --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
 }
 
 .focus\:via-theme-bg-header:focus {
@@ -14342,7 +14342,7 @@ html, body {
 }
 
 .to-theme-bg-default {
-  --tw-gradient-to: var(--theme-bg-default, #ffffff);
+  --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
 }
 
 .to-theme-bg-header {
@@ -14406,7 +14406,7 @@ html, body {
 }
 
 .hover\:to-theme-bg-default:hover {
-  --tw-gradient-to: var(--theme-bg-default, #ffffff);
+  --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
 }
 
 .hover\:to-theme-bg-header:hover {
@@ -14470,7 +14470,7 @@ html, body {
 }
 
 .focus\:to-theme-bg-default:focus {
-  --tw-gradient-to: var(--theme-bg-default, #ffffff);
+  --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
 }
 
 .focus\:to-theme-bg-header:focus {
@@ -16099,7 +16099,7 @@ html, body {
 }
 
 .text-theme-bg-default {
-  color: var(--theme-bg-default, #ffffff);
+  color: var(--theme-bg-default, #fcfcfc);
 }
 
 .text-theme-bg-header {
@@ -16163,7 +16163,7 @@ html, body {
 }
 
 .group:hover .group-hover\:text-theme-bg-default {
-  color: var(--theme-bg-default, #ffffff);
+  color: var(--theme-bg-default, #fcfcfc);
 }
 
 .group:hover .group-hover\:text-theme-bg-header {
@@ -16227,7 +16227,7 @@ html, body {
 }
 
 .focus-within\:text-theme-bg-default:focus-within {
-  color: var(--theme-bg-default, #ffffff);
+  color: var(--theme-bg-default, #fcfcfc);
 }
 
 .focus-within\:text-theme-bg-header:focus-within {
@@ -16291,7 +16291,7 @@ html, body {
 }
 
 .hover\:text-theme-bg-default:hover {
-  color: var(--theme-bg-default, #ffffff);
+  color: var(--theme-bg-default, #fcfcfc);
 }
 
 .hover\:text-theme-bg-header:hover {
@@ -16355,7 +16355,7 @@ html, body {
 }
 
 .focus\:text-theme-bg-default:focus {
-  color: var(--theme-bg-default, #ffffff);
+  color: var(--theme-bg-default, #fcfcfc);
 }
 
 .focus\:text-theme-bg-header:focus {
@@ -16789,15 +16789,15 @@ html, body {
 }
 
 .placeholder-theme-bg-default::-moz-placeholder {
-  color: var(--theme-bg-default, #ffffff);
+  color: var(--theme-bg-default, #fcfcfc);
 }
 
 .placeholder-theme-bg-default:-ms-input-placeholder {
-  color: var(--theme-bg-default, #ffffff);
+  color: var(--theme-bg-default, #fcfcfc);
 }
 
 .placeholder-theme-bg-default::placeholder {
-  color: var(--theme-bg-default, #ffffff);
+  color: var(--theme-bg-default, #fcfcfc);
 }
 
 .placeholder-theme-bg-header::-moz-placeholder {
@@ -16981,15 +16981,15 @@ html, body {
 }
 
 .focus\:placeholder-theme-bg-default:focus::-moz-placeholder {
-  color: var(--theme-bg-default, #ffffff);
+  color: var(--theme-bg-default, #fcfcfc);
 }
 
 .focus\:placeholder-theme-bg-default:focus:-ms-input-placeholder {
-  color: var(--theme-bg-default, #ffffff);
+  color: var(--theme-bg-default, #fcfcfc);
 }
 
 .focus\:placeholder-theme-bg-default:focus::placeholder {
-  color: var(--theme-bg-default, #ffffff);
+  color: var(--theme-bg-default, #fcfcfc);
 }
 
 .focus\:placeholder-theme-bg-header:focus::-moz-placeholder {
@@ -18339,7 +18339,7 @@ html, body {
 }
 
 .ring-theme-bg-default {
-  --tw-ring-color: var(--theme-bg-default, #ffffff);
+  --tw-ring-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .ring-theme-bg-header {
@@ -18403,7 +18403,7 @@ html, body {
 }
 
 .focus-within\:ring-theme-bg-default:focus-within {
-  --tw-ring-color: var(--theme-bg-default, #ffffff);
+  --tw-ring-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .focus-within\:ring-theme-bg-header:focus-within {
@@ -18467,7 +18467,7 @@ html, body {
 }
 
 .focus\:ring-theme-bg-default:focus {
-  --tw-ring-color: var(--theme-bg-default, #ffffff);
+  --tw-ring-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .focus\:ring-theme-bg-header:focus {
@@ -18771,7 +18771,7 @@ html, body {
 }
 
 .ring-offset-theme-bg-default {
-  --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+  --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .ring-offset-theme-bg-header {
@@ -18835,7 +18835,7 @@ html, body {
 }
 
 .focus-within\:ring-offset-theme-bg-default:focus-within {
-  --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+  --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .focus-within\:ring-offset-theme-bg-header:focus-within {
@@ -18899,7 +18899,7 @@ html, body {
 }
 
 .focus\:ring-offset-theme-bg-default:focus {
-  --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+  --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
 }
 
 .focus\:ring-offset-theme-bg-header:focus {
@@ -30754,7 +30754,7 @@ html, body {
   }
 
   .sm\:divide-theme-bg-default > :not([hidden]) ~ :not([hidden]) {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:divide-theme-bg-header > :not([hidden]) ~ :not([hidden]) {
@@ -31556,7 +31556,7 @@ html, body {
   }
 
   .sm\:border-theme-bg-default {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:border-theme-bg-header {
@@ -31620,7 +31620,7 @@ html, body {
   }
 
   .group:hover .sm\:group-hover\:border-theme-bg-default {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .group:hover .sm\:group-hover\:border-theme-bg-header {
@@ -31684,7 +31684,7 @@ html, body {
   }
 
   .sm\:focus-within\:border-theme-bg-default:focus-within {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:focus-within\:border-theme-bg-header:focus-within {
@@ -31748,7 +31748,7 @@ html, body {
   }
 
   .sm\:hover\:border-theme-bg-default:hover {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:hover\:border-theme-bg-header:hover {
@@ -31812,7 +31812,7 @@ html, body {
   }
 
   .sm\:focus\:border-theme-bg-default:focus {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:focus\:border-theme-bg-header:focus {
@@ -32176,7 +32176,7 @@ html, body {
   }
 
   .sm\:bg-theme-bg-default {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:bg-theme-bg-header {
@@ -32240,7 +32240,7 @@ html, body {
   }
 
   .group:hover .sm\:group-hover\:bg-theme-bg-default {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .group:hover .sm\:group-hover\:bg-theme-bg-header {
@@ -32304,7 +32304,7 @@ html, body {
   }
 
   .sm\:focus-within\:bg-theme-bg-default:focus-within {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:focus-within\:bg-theme-bg-header:focus-within {
@@ -32368,7 +32368,7 @@ html, body {
   }
 
   .sm\:hover\:bg-theme-bg-default:hover {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:hover\:bg-theme-bg-header:hover {
@@ -32432,7 +32432,7 @@ html, body {
   }
 
   .sm\:focus\:bg-theme-bg-default:focus {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:focus\:bg-theme-bg-header:focus {
@@ -32832,7 +32832,7 @@ html, body {
   }
 
   .sm\:from-theme-bg-default {
-    --tw-gradient-from: var(--theme-bg-default, #ffffff);
+    --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -32912,7 +32912,7 @@ html, body {
   }
 
   .sm\:hover\:from-theme-bg-default:hover {
-    --tw-gradient-from: var(--theme-bg-default, #ffffff);
+    --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -32992,7 +32992,7 @@ html, body {
   }
 
   .sm\:focus\:from-theme-bg-default:focus {
-    --tw-gradient-from: var(--theme-bg-default, #ffffff);
+    --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -33072,7 +33072,7 @@ html, body {
   }
 
   .sm\:via-theme-bg-default {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .sm\:via-theme-bg-header {
@@ -33136,7 +33136,7 @@ html, body {
   }
 
   .sm\:hover\:via-theme-bg-default:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .sm\:hover\:via-theme-bg-header:hover {
@@ -33200,7 +33200,7 @@ html, body {
   }
 
   .sm\:focus\:via-theme-bg-default:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .sm\:focus\:via-theme-bg-header:focus {
@@ -33264,7 +33264,7 @@ html, body {
   }
 
   .sm\:to-theme-bg-default {
-    --tw-gradient-to: var(--theme-bg-default, #ffffff);
+    --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:to-theme-bg-header {
@@ -33328,7 +33328,7 @@ html, body {
   }
 
   .sm\:hover\:to-theme-bg-default:hover {
-    --tw-gradient-to: var(--theme-bg-default, #ffffff);
+    --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:hover\:to-theme-bg-header:hover {
@@ -33392,7 +33392,7 @@ html, body {
   }
 
   .sm\:focus\:to-theme-bg-default:focus {
-    --tw-gradient-to: var(--theme-bg-default, #ffffff);
+    --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:focus\:to-theme-bg-header:focus {
@@ -35021,7 +35021,7 @@ html, body {
   }
 
   .sm\:text-theme-bg-default {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:text-theme-bg-header {
@@ -35085,7 +35085,7 @@ html, body {
   }
 
   .group:hover .sm\:group-hover\:text-theme-bg-default {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .group:hover .sm\:group-hover\:text-theme-bg-header {
@@ -35149,7 +35149,7 @@ html, body {
   }
 
   .sm\:focus-within\:text-theme-bg-default:focus-within {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:focus-within\:text-theme-bg-header:focus-within {
@@ -35213,7 +35213,7 @@ html, body {
   }
 
   .sm\:hover\:text-theme-bg-default:hover {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:hover\:text-theme-bg-header:hover {
@@ -35277,7 +35277,7 @@ html, body {
   }
 
   .sm\:focus\:text-theme-bg-default:focus {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:focus\:text-theme-bg-header:focus {
@@ -35711,15 +35711,15 @@ html, body {
   }
 
   .sm\:placeholder-theme-bg-default::-moz-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:placeholder-theme-bg-default:-ms-input-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:placeholder-theme-bg-default::placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:placeholder-theme-bg-header::-moz-placeholder {
@@ -35903,15 +35903,15 @@ html, body {
   }
 
   .sm\:focus\:placeholder-theme-bg-default:focus::-moz-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:focus\:placeholder-theme-bg-default:focus:-ms-input-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:focus\:placeholder-theme-bg-default:focus::placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:focus\:placeholder-theme-bg-header:focus::-moz-placeholder {
@@ -37248,7 +37248,7 @@ html, body {
   }
 
   .sm\:ring-theme-bg-default {
-    --tw-ring-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:ring-theme-bg-header {
@@ -37312,7 +37312,7 @@ html, body {
   }
 
   .sm\:focus-within\:ring-theme-bg-default:focus-within {
-    --tw-ring-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:focus-within\:ring-theme-bg-header:focus-within {
@@ -37376,7 +37376,7 @@ html, body {
   }
 
   .sm\:focus\:ring-theme-bg-default:focus {
-    --tw-ring-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:focus\:ring-theme-bg-header:focus {
@@ -37680,7 +37680,7 @@ html, body {
   }
 
   .sm\:ring-offset-theme-bg-default {
-    --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:ring-offset-theme-bg-header {
@@ -37744,7 +37744,7 @@ html, body {
   }
 
   .sm\:focus-within\:ring-offset-theme-bg-default:focus-within {
-    --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:focus-within\:ring-offset-theme-bg-header:focus-within {
@@ -37808,7 +37808,7 @@ html, body {
   }
 
   .sm\:focus\:ring-offset-theme-bg-default:focus {
-    --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .sm\:focus\:ring-offset-theme-bg-header:focus {
@@ -49664,7 +49664,7 @@ html, body {
   }
 
   .md\:divide-theme-bg-default > :not([hidden]) ~ :not([hidden]) {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:divide-theme-bg-header > :not([hidden]) ~ :not([hidden]) {
@@ -50466,7 +50466,7 @@ html, body {
   }
 
   .md\:border-theme-bg-default {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:border-theme-bg-header {
@@ -50530,7 +50530,7 @@ html, body {
   }
 
   .group:hover .md\:group-hover\:border-theme-bg-default {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .group:hover .md\:group-hover\:border-theme-bg-header {
@@ -50594,7 +50594,7 @@ html, body {
   }
 
   .md\:focus-within\:border-theme-bg-default:focus-within {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:focus-within\:border-theme-bg-header:focus-within {
@@ -50658,7 +50658,7 @@ html, body {
   }
 
   .md\:hover\:border-theme-bg-default:hover {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:hover\:border-theme-bg-header:hover {
@@ -50722,7 +50722,7 @@ html, body {
   }
 
   .md\:focus\:border-theme-bg-default:focus {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:focus\:border-theme-bg-header:focus {
@@ -51086,7 +51086,7 @@ html, body {
   }
 
   .md\:bg-theme-bg-default {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:bg-theme-bg-header {
@@ -51150,7 +51150,7 @@ html, body {
   }
 
   .group:hover .md\:group-hover\:bg-theme-bg-default {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .group:hover .md\:group-hover\:bg-theme-bg-header {
@@ -51214,7 +51214,7 @@ html, body {
   }
 
   .md\:focus-within\:bg-theme-bg-default:focus-within {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:focus-within\:bg-theme-bg-header:focus-within {
@@ -51278,7 +51278,7 @@ html, body {
   }
 
   .md\:hover\:bg-theme-bg-default:hover {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:hover\:bg-theme-bg-header:hover {
@@ -51342,7 +51342,7 @@ html, body {
   }
 
   .md\:focus\:bg-theme-bg-default:focus {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:focus\:bg-theme-bg-header:focus {
@@ -51742,7 +51742,7 @@ html, body {
   }
 
   .md\:from-theme-bg-default {
-    --tw-gradient-from: var(--theme-bg-default, #ffffff);
+    --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -51822,7 +51822,7 @@ html, body {
   }
 
   .md\:hover\:from-theme-bg-default:hover {
-    --tw-gradient-from: var(--theme-bg-default, #ffffff);
+    --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -51902,7 +51902,7 @@ html, body {
   }
 
   .md\:focus\:from-theme-bg-default:focus {
-    --tw-gradient-from: var(--theme-bg-default, #ffffff);
+    --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -51982,7 +51982,7 @@ html, body {
   }
 
   .md\:via-theme-bg-default {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .md\:via-theme-bg-header {
@@ -52046,7 +52046,7 @@ html, body {
   }
 
   .md\:hover\:via-theme-bg-default:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .md\:hover\:via-theme-bg-header:hover {
@@ -52110,7 +52110,7 @@ html, body {
   }
 
   .md\:focus\:via-theme-bg-default:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .md\:focus\:via-theme-bg-header:focus {
@@ -52174,7 +52174,7 @@ html, body {
   }
 
   .md\:to-theme-bg-default {
-    --tw-gradient-to: var(--theme-bg-default, #ffffff);
+    --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:to-theme-bg-header {
@@ -52238,7 +52238,7 @@ html, body {
   }
 
   .md\:hover\:to-theme-bg-default:hover {
-    --tw-gradient-to: var(--theme-bg-default, #ffffff);
+    --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:hover\:to-theme-bg-header:hover {
@@ -52302,7 +52302,7 @@ html, body {
   }
 
   .md\:focus\:to-theme-bg-default:focus {
-    --tw-gradient-to: var(--theme-bg-default, #ffffff);
+    --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:focus\:to-theme-bg-header:focus {
@@ -53931,7 +53931,7 @@ html, body {
   }
 
   .md\:text-theme-bg-default {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:text-theme-bg-header {
@@ -53995,7 +53995,7 @@ html, body {
   }
 
   .group:hover .md\:group-hover\:text-theme-bg-default {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .group:hover .md\:group-hover\:text-theme-bg-header {
@@ -54059,7 +54059,7 @@ html, body {
   }
 
   .md\:focus-within\:text-theme-bg-default:focus-within {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:focus-within\:text-theme-bg-header:focus-within {
@@ -54123,7 +54123,7 @@ html, body {
   }
 
   .md\:hover\:text-theme-bg-default:hover {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:hover\:text-theme-bg-header:hover {
@@ -54187,7 +54187,7 @@ html, body {
   }
 
   .md\:focus\:text-theme-bg-default:focus {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:focus\:text-theme-bg-header:focus {
@@ -54621,15 +54621,15 @@ html, body {
   }
 
   .md\:placeholder-theme-bg-default::-moz-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:placeholder-theme-bg-default:-ms-input-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:placeholder-theme-bg-default::placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:placeholder-theme-bg-header::-moz-placeholder {
@@ -54813,15 +54813,15 @@ html, body {
   }
 
   .md\:focus\:placeholder-theme-bg-default:focus::-moz-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:focus\:placeholder-theme-bg-default:focus:-ms-input-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:focus\:placeholder-theme-bg-default:focus::placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:focus\:placeholder-theme-bg-header:focus::-moz-placeholder {
@@ -56158,7 +56158,7 @@ html, body {
   }
 
   .md\:ring-theme-bg-default {
-    --tw-ring-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:ring-theme-bg-header {
@@ -56222,7 +56222,7 @@ html, body {
   }
 
   .md\:focus-within\:ring-theme-bg-default:focus-within {
-    --tw-ring-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:focus-within\:ring-theme-bg-header:focus-within {
@@ -56286,7 +56286,7 @@ html, body {
   }
 
   .md\:focus\:ring-theme-bg-default:focus {
-    --tw-ring-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:focus\:ring-theme-bg-header:focus {
@@ -56590,7 +56590,7 @@ html, body {
   }
 
   .md\:ring-offset-theme-bg-default {
-    --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:ring-offset-theme-bg-header {
@@ -56654,7 +56654,7 @@ html, body {
   }
 
   .md\:focus-within\:ring-offset-theme-bg-default:focus-within {
-    --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:focus-within\:ring-offset-theme-bg-header:focus-within {
@@ -56718,7 +56718,7 @@ html, body {
   }
 
   .md\:focus\:ring-offset-theme-bg-default:focus {
-    --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .md\:focus\:ring-offset-theme-bg-header:focus {
@@ -68574,7 +68574,7 @@ html, body {
   }
 
   .lg\:divide-theme-bg-default > :not([hidden]) ~ :not([hidden]) {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:divide-theme-bg-header > :not([hidden]) ~ :not([hidden]) {
@@ -69376,7 +69376,7 @@ html, body {
   }
 
   .lg\:border-theme-bg-default {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:border-theme-bg-header {
@@ -69440,7 +69440,7 @@ html, body {
   }
 
   .group:hover .lg\:group-hover\:border-theme-bg-default {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .group:hover .lg\:group-hover\:border-theme-bg-header {
@@ -69504,7 +69504,7 @@ html, body {
   }
 
   .lg\:focus-within\:border-theme-bg-default:focus-within {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:focus-within\:border-theme-bg-header:focus-within {
@@ -69568,7 +69568,7 @@ html, body {
   }
 
   .lg\:hover\:border-theme-bg-default:hover {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:hover\:border-theme-bg-header:hover {
@@ -69632,7 +69632,7 @@ html, body {
   }
 
   .lg\:focus\:border-theme-bg-default:focus {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:focus\:border-theme-bg-header:focus {
@@ -69996,7 +69996,7 @@ html, body {
   }
 
   .lg\:bg-theme-bg-default {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:bg-theme-bg-header {
@@ -70060,7 +70060,7 @@ html, body {
   }
 
   .group:hover .lg\:group-hover\:bg-theme-bg-default {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .group:hover .lg\:group-hover\:bg-theme-bg-header {
@@ -70124,7 +70124,7 @@ html, body {
   }
 
   .lg\:focus-within\:bg-theme-bg-default:focus-within {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:focus-within\:bg-theme-bg-header:focus-within {
@@ -70188,7 +70188,7 @@ html, body {
   }
 
   .lg\:hover\:bg-theme-bg-default:hover {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:hover\:bg-theme-bg-header:hover {
@@ -70252,7 +70252,7 @@ html, body {
   }
 
   .lg\:focus\:bg-theme-bg-default:focus {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:focus\:bg-theme-bg-header:focus {
@@ -70652,7 +70652,7 @@ html, body {
   }
 
   .lg\:from-theme-bg-default {
-    --tw-gradient-from: var(--theme-bg-default, #ffffff);
+    --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -70732,7 +70732,7 @@ html, body {
   }
 
   .lg\:hover\:from-theme-bg-default:hover {
-    --tw-gradient-from: var(--theme-bg-default, #ffffff);
+    --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -70812,7 +70812,7 @@ html, body {
   }
 
   .lg\:focus\:from-theme-bg-default:focus {
-    --tw-gradient-from: var(--theme-bg-default, #ffffff);
+    --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -70892,7 +70892,7 @@ html, body {
   }
 
   .lg\:via-theme-bg-default {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .lg\:via-theme-bg-header {
@@ -70956,7 +70956,7 @@ html, body {
   }
 
   .lg\:hover\:via-theme-bg-default:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .lg\:hover\:via-theme-bg-header:hover {
@@ -71020,7 +71020,7 @@ html, body {
   }
 
   .lg\:focus\:via-theme-bg-default:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .lg\:focus\:via-theme-bg-header:focus {
@@ -71084,7 +71084,7 @@ html, body {
   }
 
   .lg\:to-theme-bg-default {
-    --tw-gradient-to: var(--theme-bg-default, #ffffff);
+    --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:to-theme-bg-header {
@@ -71148,7 +71148,7 @@ html, body {
   }
 
   .lg\:hover\:to-theme-bg-default:hover {
-    --tw-gradient-to: var(--theme-bg-default, #ffffff);
+    --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:hover\:to-theme-bg-header:hover {
@@ -71212,7 +71212,7 @@ html, body {
   }
 
   .lg\:focus\:to-theme-bg-default:focus {
-    --tw-gradient-to: var(--theme-bg-default, #ffffff);
+    --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:focus\:to-theme-bg-header:focus {
@@ -72841,7 +72841,7 @@ html, body {
   }
 
   .lg\:text-theme-bg-default {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:text-theme-bg-header {
@@ -72905,7 +72905,7 @@ html, body {
   }
 
   .group:hover .lg\:group-hover\:text-theme-bg-default {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .group:hover .lg\:group-hover\:text-theme-bg-header {
@@ -72969,7 +72969,7 @@ html, body {
   }
 
   .lg\:focus-within\:text-theme-bg-default:focus-within {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:focus-within\:text-theme-bg-header:focus-within {
@@ -73033,7 +73033,7 @@ html, body {
   }
 
   .lg\:hover\:text-theme-bg-default:hover {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:hover\:text-theme-bg-header:hover {
@@ -73097,7 +73097,7 @@ html, body {
   }
 
   .lg\:focus\:text-theme-bg-default:focus {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:focus\:text-theme-bg-header:focus {
@@ -73531,15 +73531,15 @@ html, body {
   }
 
   .lg\:placeholder-theme-bg-default::-moz-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:placeholder-theme-bg-default:-ms-input-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:placeholder-theme-bg-default::placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:placeholder-theme-bg-header::-moz-placeholder {
@@ -73723,15 +73723,15 @@ html, body {
   }
 
   .lg\:focus\:placeholder-theme-bg-default:focus::-moz-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:focus\:placeholder-theme-bg-default:focus:-ms-input-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:focus\:placeholder-theme-bg-default:focus::placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:focus\:placeholder-theme-bg-header:focus::-moz-placeholder {
@@ -75068,7 +75068,7 @@ html, body {
   }
 
   .lg\:ring-theme-bg-default {
-    --tw-ring-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:ring-theme-bg-header {
@@ -75132,7 +75132,7 @@ html, body {
   }
 
   .lg\:focus-within\:ring-theme-bg-default:focus-within {
-    --tw-ring-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:focus-within\:ring-theme-bg-header:focus-within {
@@ -75196,7 +75196,7 @@ html, body {
   }
 
   .lg\:focus\:ring-theme-bg-default:focus {
-    --tw-ring-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:focus\:ring-theme-bg-header:focus {
@@ -75500,7 +75500,7 @@ html, body {
   }
 
   .lg\:ring-offset-theme-bg-default {
-    --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:ring-offset-theme-bg-header {
@@ -75564,7 +75564,7 @@ html, body {
   }
 
   .lg\:focus-within\:ring-offset-theme-bg-default:focus-within {
-    --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:focus-within\:ring-offset-theme-bg-header:focus-within {
@@ -75628,7 +75628,7 @@ html, body {
   }
 
   .lg\:focus\:ring-offset-theme-bg-default:focus {
-    --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .lg\:focus\:ring-offset-theme-bg-header:focus {
@@ -87484,7 +87484,7 @@ html, body {
   }
 
   .xl\:divide-theme-bg-default > :not([hidden]) ~ :not([hidden]) {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:divide-theme-bg-header > :not([hidden]) ~ :not([hidden]) {
@@ -88286,7 +88286,7 @@ html, body {
   }
 
   .xl\:border-theme-bg-default {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:border-theme-bg-header {
@@ -88350,7 +88350,7 @@ html, body {
   }
 
   .group:hover .xl\:group-hover\:border-theme-bg-default {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .group:hover .xl\:group-hover\:border-theme-bg-header {
@@ -88414,7 +88414,7 @@ html, body {
   }
 
   .xl\:focus-within\:border-theme-bg-default:focus-within {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:focus-within\:border-theme-bg-header:focus-within {
@@ -88478,7 +88478,7 @@ html, body {
   }
 
   .xl\:hover\:border-theme-bg-default:hover {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:hover\:border-theme-bg-header:hover {
@@ -88542,7 +88542,7 @@ html, body {
   }
 
   .xl\:focus\:border-theme-bg-default:focus {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:focus\:border-theme-bg-header:focus {
@@ -88906,7 +88906,7 @@ html, body {
   }
 
   .xl\:bg-theme-bg-default {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:bg-theme-bg-header {
@@ -88970,7 +88970,7 @@ html, body {
   }
 
   .group:hover .xl\:group-hover\:bg-theme-bg-default {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .group:hover .xl\:group-hover\:bg-theme-bg-header {
@@ -89034,7 +89034,7 @@ html, body {
   }
 
   .xl\:focus-within\:bg-theme-bg-default:focus-within {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:focus-within\:bg-theme-bg-header:focus-within {
@@ -89098,7 +89098,7 @@ html, body {
   }
 
   .xl\:hover\:bg-theme-bg-default:hover {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:hover\:bg-theme-bg-header:hover {
@@ -89162,7 +89162,7 @@ html, body {
   }
 
   .xl\:focus\:bg-theme-bg-default:focus {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:focus\:bg-theme-bg-header:focus {
@@ -89562,7 +89562,7 @@ html, body {
   }
 
   .xl\:from-theme-bg-default {
-    --tw-gradient-from: var(--theme-bg-default, #ffffff);
+    --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -89642,7 +89642,7 @@ html, body {
   }
 
   .xl\:hover\:from-theme-bg-default:hover {
-    --tw-gradient-from: var(--theme-bg-default, #ffffff);
+    --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -89722,7 +89722,7 @@ html, body {
   }
 
   .xl\:focus\:from-theme-bg-default:focus {
-    --tw-gradient-from: var(--theme-bg-default, #ffffff);
+    --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -89802,7 +89802,7 @@ html, body {
   }
 
   .xl\:via-theme-bg-default {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .xl\:via-theme-bg-header {
@@ -89866,7 +89866,7 @@ html, body {
   }
 
   .xl\:hover\:via-theme-bg-default:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .xl\:hover\:via-theme-bg-header:hover {
@@ -89930,7 +89930,7 @@ html, body {
   }
 
   .xl\:focus\:via-theme-bg-default:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .xl\:focus\:via-theme-bg-header:focus {
@@ -89994,7 +89994,7 @@ html, body {
   }
 
   .xl\:to-theme-bg-default {
-    --tw-gradient-to: var(--theme-bg-default, #ffffff);
+    --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:to-theme-bg-header {
@@ -90058,7 +90058,7 @@ html, body {
   }
 
   .xl\:hover\:to-theme-bg-default:hover {
-    --tw-gradient-to: var(--theme-bg-default, #ffffff);
+    --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:hover\:to-theme-bg-header:hover {
@@ -90122,7 +90122,7 @@ html, body {
   }
 
   .xl\:focus\:to-theme-bg-default:focus {
-    --tw-gradient-to: var(--theme-bg-default, #ffffff);
+    --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:focus\:to-theme-bg-header:focus {
@@ -91751,7 +91751,7 @@ html, body {
   }
 
   .xl\:text-theme-bg-default {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:text-theme-bg-header {
@@ -91815,7 +91815,7 @@ html, body {
   }
 
   .group:hover .xl\:group-hover\:text-theme-bg-default {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .group:hover .xl\:group-hover\:text-theme-bg-header {
@@ -91879,7 +91879,7 @@ html, body {
   }
 
   .xl\:focus-within\:text-theme-bg-default:focus-within {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:focus-within\:text-theme-bg-header:focus-within {
@@ -91943,7 +91943,7 @@ html, body {
   }
 
   .xl\:hover\:text-theme-bg-default:hover {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:hover\:text-theme-bg-header:hover {
@@ -92007,7 +92007,7 @@ html, body {
   }
 
   .xl\:focus\:text-theme-bg-default:focus {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:focus\:text-theme-bg-header:focus {
@@ -92441,15 +92441,15 @@ html, body {
   }
 
   .xl\:placeholder-theme-bg-default::-moz-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:placeholder-theme-bg-default:-ms-input-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:placeholder-theme-bg-default::placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:placeholder-theme-bg-header::-moz-placeholder {
@@ -92633,15 +92633,15 @@ html, body {
   }
 
   .xl\:focus\:placeholder-theme-bg-default:focus::-moz-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:focus\:placeholder-theme-bg-default:focus:-ms-input-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:focus\:placeholder-theme-bg-default:focus::placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:focus\:placeholder-theme-bg-header:focus::-moz-placeholder {
@@ -93978,7 +93978,7 @@ html, body {
   }
 
   .xl\:ring-theme-bg-default {
-    --tw-ring-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:ring-theme-bg-header {
@@ -94042,7 +94042,7 @@ html, body {
   }
 
   .xl\:focus-within\:ring-theme-bg-default:focus-within {
-    --tw-ring-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:focus-within\:ring-theme-bg-header:focus-within {
@@ -94106,7 +94106,7 @@ html, body {
   }
 
   .xl\:focus\:ring-theme-bg-default:focus {
-    --tw-ring-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:focus\:ring-theme-bg-header:focus {
@@ -94410,7 +94410,7 @@ html, body {
   }
 
   .xl\:ring-offset-theme-bg-default {
-    --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:ring-offset-theme-bg-header {
@@ -94474,7 +94474,7 @@ html, body {
   }
 
   .xl\:focus-within\:ring-offset-theme-bg-default:focus-within {
-    --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:focus-within\:ring-offset-theme-bg-header:focus-within {
@@ -94538,7 +94538,7 @@ html, body {
   }
 
   .xl\:focus\:ring-offset-theme-bg-default:focus {
-    --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .xl\:focus\:ring-offset-theme-bg-header:focus {
@@ -106394,7 +106394,7 @@ html, body {
   }
 
   .\32xl\:divide-theme-bg-default > :not([hidden]) ~ :not([hidden]) {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:divide-theme-bg-header > :not([hidden]) ~ :not([hidden]) {
@@ -107196,7 +107196,7 @@ html, body {
   }
 
   .\32xl\:border-theme-bg-default {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:border-theme-bg-header {
@@ -107260,7 +107260,7 @@ html, body {
   }
 
   .group:hover .\32xl\:group-hover\:border-theme-bg-default {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .group:hover .\32xl\:group-hover\:border-theme-bg-header {
@@ -107324,7 +107324,7 @@ html, body {
   }
 
   .\32xl\:focus-within\:border-theme-bg-default:focus-within {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:focus-within\:border-theme-bg-header:focus-within {
@@ -107388,7 +107388,7 @@ html, body {
   }
 
   .\32xl\:hover\:border-theme-bg-default:hover {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:hover\:border-theme-bg-header:hover {
@@ -107452,7 +107452,7 @@ html, body {
   }
 
   .\32xl\:focus\:border-theme-bg-default:focus {
-    border-color: var(--theme-bg-default, #ffffff);
+    border-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:focus\:border-theme-bg-header:focus {
@@ -107816,7 +107816,7 @@ html, body {
   }
 
   .\32xl\:bg-theme-bg-default {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:bg-theme-bg-header {
@@ -107880,7 +107880,7 @@ html, body {
   }
 
   .group:hover .\32xl\:group-hover\:bg-theme-bg-default {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .group:hover .\32xl\:group-hover\:bg-theme-bg-header {
@@ -107944,7 +107944,7 @@ html, body {
   }
 
   .\32xl\:focus-within\:bg-theme-bg-default:focus-within {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:focus-within\:bg-theme-bg-header:focus-within {
@@ -108008,7 +108008,7 @@ html, body {
   }
 
   .\32xl\:hover\:bg-theme-bg-default:hover {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:hover\:bg-theme-bg-header:hover {
@@ -108072,7 +108072,7 @@ html, body {
   }
 
   .\32xl\:focus\:bg-theme-bg-default:focus {
-    background-color: var(--theme-bg-default, #ffffff);
+    background-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:focus\:bg-theme-bg-header:focus {
@@ -108472,7 +108472,7 @@ html, body {
   }
 
   .\32xl\:from-theme-bg-default {
-    --tw-gradient-from: var(--theme-bg-default, #ffffff);
+    --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -108552,7 +108552,7 @@ html, body {
   }
 
   .\32xl\:hover\:from-theme-bg-default:hover {
-    --tw-gradient-from: var(--theme-bg-default, #ffffff);
+    --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -108632,7 +108632,7 @@ html, body {
   }
 
   .\32xl\:focus\:from-theme-bg-default:focus {
-    --tw-gradient-from: var(--theme-bg-default, #ffffff);
+    --tw-gradient-from: var(--theme-bg-default, #fcfcfc);
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
@@ -108712,7 +108712,7 @@ html, body {
   }
 
   .\32xl\:via-theme-bg-default {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .\32xl\:via-theme-bg-header {
@@ -108776,7 +108776,7 @@ html, body {
   }
 
   .\32xl\:hover\:via-theme-bg-default:hover {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .\32xl\:hover\:via-theme-bg-header:hover {
@@ -108840,7 +108840,7 @@ html, body {
   }
 
   .\32xl\:focus\:via-theme-bg-default:focus {
-    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #ffffff), var(--tw-gradient-to, rgba(255, 255, 255, 0));
+    --tw-gradient-stops: var(--tw-gradient-from), var(--theme-bg-default, #fcfcfc), var(--tw-gradient-to, rgba(255, 255, 255, 0));
   }
 
   .\32xl\:focus\:via-theme-bg-header:focus {
@@ -108904,7 +108904,7 @@ html, body {
   }
 
   .\32xl\:to-theme-bg-default {
-    --tw-gradient-to: var(--theme-bg-default, #ffffff);
+    --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:to-theme-bg-header {
@@ -108968,7 +108968,7 @@ html, body {
   }
 
   .\32xl\:hover\:to-theme-bg-default:hover {
-    --tw-gradient-to: var(--theme-bg-default, #ffffff);
+    --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:hover\:to-theme-bg-header:hover {
@@ -109032,7 +109032,7 @@ html, body {
   }
 
   .\32xl\:focus\:to-theme-bg-default:focus {
-    --tw-gradient-to: var(--theme-bg-default, #ffffff);
+    --tw-gradient-to: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:focus\:to-theme-bg-header:focus {
@@ -110661,7 +110661,7 @@ html, body {
   }
 
   .\32xl\:text-theme-bg-default {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:text-theme-bg-header {
@@ -110725,7 +110725,7 @@ html, body {
   }
 
   .group:hover .\32xl\:group-hover\:text-theme-bg-default {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .group:hover .\32xl\:group-hover\:text-theme-bg-header {
@@ -110789,7 +110789,7 @@ html, body {
   }
 
   .\32xl\:focus-within\:text-theme-bg-default:focus-within {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:focus-within\:text-theme-bg-header:focus-within {
@@ -110853,7 +110853,7 @@ html, body {
   }
 
   .\32xl\:hover\:text-theme-bg-default:hover {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:hover\:text-theme-bg-header:hover {
@@ -110917,7 +110917,7 @@ html, body {
   }
 
   .\32xl\:focus\:text-theme-bg-default:focus {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:focus\:text-theme-bg-header:focus {
@@ -111351,15 +111351,15 @@ html, body {
   }
 
   .\32xl\:placeholder-theme-bg-default::-moz-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:placeholder-theme-bg-default:-ms-input-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:placeholder-theme-bg-default::placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:placeholder-theme-bg-header::-moz-placeholder {
@@ -111543,15 +111543,15 @@ html, body {
   }
 
   .\32xl\:focus\:placeholder-theme-bg-default:focus::-moz-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:focus\:placeholder-theme-bg-default:focus:-ms-input-placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:focus\:placeholder-theme-bg-default:focus::placeholder {
-    color: var(--theme-bg-default, #ffffff);
+    color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:focus\:placeholder-theme-bg-header:focus::-moz-placeholder {
@@ -112888,7 +112888,7 @@ html, body {
   }
 
   .\32xl\:ring-theme-bg-default {
-    --tw-ring-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:ring-theme-bg-header {
@@ -112952,7 +112952,7 @@ html, body {
   }
 
   .\32xl\:focus-within\:ring-theme-bg-default:focus-within {
-    --tw-ring-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:focus-within\:ring-theme-bg-header:focus-within {
@@ -113016,7 +113016,7 @@ html, body {
   }
 
   .\32xl\:focus\:ring-theme-bg-default:focus {
-    --tw-ring-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:focus\:ring-theme-bg-header:focus {
@@ -113320,7 +113320,7 @@ html, body {
   }
 
   .\32xl\:ring-offset-theme-bg-default {
-    --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:ring-offset-theme-bg-header {
@@ -113384,7 +113384,7 @@ html, body {
   }
 
   .\32xl\:focus-within\:ring-offset-theme-bg-default:focus-within {
-    --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:focus-within\:ring-offset-theme-bg-header:focus-within {
@@ -113448,7 +113448,7 @@ html, body {
   }
 
   .\32xl\:focus\:ring-offset-theme-bg-default:focus {
-    --tw-ring-offset-color: var(--theme-bg-default, #ffffff);
+    --tw-ring-offset-color: var(--theme-bg-default, #fcfcfc);
   }
 
   .\32xl\:focus\:ring-offset-theme-bg-header:focus {
