@@ -3,9 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "scripts": {
-        // "build-transform-light": "npx token-transformer tokens.json tokens/light.json global,light,theme global",
-        // "build-transform-dark": "npx token-transformer tokens.json tokens/dark.json global,dark,theme global",
-        // "build-transform": "npm run build-transform-light && npm run build-transform-dark",
+
         "build-transform-sds": "npx token-transformer tokens.json tokens/sds.json global,sds,theme global",
         "build-transform-amz": "npx token-transformer tokens.json tokens/amz.json global,amz,theme global",
         "build-transform": "npm run build-transform-sds && npm run build-transform-amz",
