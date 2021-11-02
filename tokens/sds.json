@@ -2,7 +2,7 @@
   "theme": {
     "bg": {
       "default": {
-        "value": "#ffffff",
+        "value": "#fcfcfc",
         "type": "color"
       },
       "header": {
