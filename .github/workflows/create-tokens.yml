@@ -24,5 +24,5 @@ jobs:
           provider: NETLIFY
           netlify-auth-token: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           netlify-site-id: br-tokens-sds
-          branch: docs
+          branch: sds
           github-token: ${{ secrets.GITHUB_TOKEN }}
