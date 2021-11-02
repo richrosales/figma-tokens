@@ -1,7 +1,7 @@
 
 const { filterTokensByType } = require("./fns");
 // const tokens = require("./output/light.json")
-const tokens = require("./output/sds.json")
+const tokens = require("./output/default.json")
 
 const colors = filterTokensByType('color', tokens)
 
