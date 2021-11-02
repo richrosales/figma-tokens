@@ -3,7 +3,6 @@
     "version": "0.1.0",
     "private": true,
     "scripts": {
-
         "build-transform-sds": "npx token-transformer tokens.json tokens/sds.json global,sds,theme global",
         "build-transform-amz": "npx token-transformer tokens.json tokens/amz.json global,amz,theme global",
         "build-transform": "npm run build-transform-sds && npm run build-transform-amz",
